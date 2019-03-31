@@ -1,0 +1,14 @@
+{
+    "name": "soudai/php-off-road",
+    "description": "Lightweight PHP Framework",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "soudai",
+            "email": "alftaketomo@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
